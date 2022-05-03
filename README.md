@@ -28,7 +28,10 @@
 
 <div>
 <a href = "mailto:lucasoliveira_aky@outlook.com.br"><img src="https://img.shields.io/badge/Outlook-17234E?style=for-the-badge&logo=microsoft&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/lucas-de-oliveira-42835113b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href="https://www.linkedin.com/in/lucas-de-oliveira-42835113b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href = "https://discordapp.com/users/166023584756531200"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 </div>
+
+<br/>
 
 ![Snake animation](https://github.com/akynus/akynus/blob/output/github-contribution-grid-snake.svg)
